@@ -42,5 +42,5 @@ def getUsername():
 
 
 def getToken():
-    return "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"
+    return "Token"
 
